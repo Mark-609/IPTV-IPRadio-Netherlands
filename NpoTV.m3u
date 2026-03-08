@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="NPO Televisie",NPO1
+https://rbtvlive.cdn.tele2portal.com/live/NPO1/NPO1.isml/.m3u8
+#EXTINF:-1 group-title="NPO Televisie",NPO2
+https://rbtvlive.cdn.tele2portal.com/live/NPO2/NPO2.isml/.m3u8
+#EXTINF:-1 group-title="NPO Televisie",NPO3
+https://rbtvlive.cdn.tele2portal.com/live/NPO3/NPO3.isml/.m3u8
