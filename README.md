@@ -14,7 +14,7 @@ These playlists can be used with players such as **VLC, Kodi, TiviMate, IPTV Sma
 
 # 📺 TV Playlists
 
-## NPO TV
+## ![NPO](https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/overrides/.icons/Npologo.svg) NPO TV
 
 **Copyable Link**
 
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 
 # 📻 Radio Playlists
 
-## NPO Radio
+## ![NPO](https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/overrides/.icons/Npologo.svg) NPO Radio
 
 **Copyable Link**
 
