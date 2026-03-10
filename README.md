@@ -16,10 +16,6 @@ These playlists can be used with players such as **VLC, Kodi, TiviMate, IPTV Sma
 
 ## NPO TV
 
-**Direct Playlist URL**
-
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/NpoTV.m3u
-
 **Copyable Link**
 
 ```
@@ -32,10 +28,6 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 
 ## NPO Radio
 
-**Direct Playlist URL**
-
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/NpoRadio.m3u
-
 **Copyable Link**
 
 ```
@@ -45,10 +37,6 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 ---
 
 ## Regional Public Radio (RPO)
-
-**Direct Playlist URL**
-
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/Rpo.m3u
 
 **Copyable Link**
 
