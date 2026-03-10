@@ -24,6 +24,16 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 
 ---
 
+## Regional Puplic TV (RPT)
+
+**Copyable Link**
+
+```
+https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/RPR.m3u
+```
+
+---
+
 # 📻 Radio Playlists
 
 ## NPO Radio
