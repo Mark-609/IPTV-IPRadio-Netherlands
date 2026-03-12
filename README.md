@@ -1,7 +1,7 @@
 # 🇳🇱 IPTV & IP Radio – Netherlands
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Mark-609/IPTV-IPRadio-Netherlands-)
-![GitHub last commit](https://img.shields.io/github/last-commit/Mark-609/IPTV-IPRadio-Netherlands-)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mark-609/IPTV-IPRadio-Netherlands)
+![GitHub last commit](https://img.shields.io/github/last-commit/Mark-609/IPTV-IPRadio-Netherlands)
 ![License](https://img.shields.io/badge/streams-public-blue)
 
 A simple collection of **Dutch IPTV and Internet Radio playlists** in `.m3u` format.
@@ -14,12 +14,12 @@ These playlists can be used with players such as **VLC, Kodi, TiviMate, IPTV Sma
 
 # 📺 TV Playlists
 
-## ![NPO](https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/overrides/.icons/NpologoSmall.png) NPO TV
+## ![NPO](https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands/refs/heads/main/overrides/.icons/NpologoSmall.png) NPO TV
 
 **Copyable Link**
 
 ```
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/NpoTV.m3u
+https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands/refs/heads/main/NpoTV.m3u
 ```
 
 ---
@@ -29,19 +29,19 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 **Copyable Link**
 
 ```
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/RPT.m3u
+https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands/refs/heads/main/RPT.m3u
 ```
 
 ---
 
 # 📻 Radio Playlists
 
-## ![NPO](https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/overrides/.icons/NpologoSmall.png) NPO Radio
+## ![NPO](https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands/refs/heads/main/overrides/.icons/NpologoSmall.png) NPO Radio
 
 **Copyable Link**
 
 ```
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/NpoRadio.m3u
+https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands/refs/heads/main/NpoRadio.m3u
 ```
 
 ---
@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 **Copyable Link**
 
 ```
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/RPR.m3u
+https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands/refs/heads/main/RPR.m3u
 ```
 
 ---
